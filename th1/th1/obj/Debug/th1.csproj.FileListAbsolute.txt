@@ -1,0 +1,15 @@
+C:\Users\quanc\source\repos\th1\th1\bin\Debug\th1.exe.config
+C:\Users\quanc\source\repos\th1\th1\bin\Debug\th1.exe
+C:\Users\quanc\source\repos\th1\th1\bin\Debug\th1.pdb
+C:\Users\quanc\source\repos\th1\th1\obj\Debug\th1.csproj.AssemblyReference.cache
+C:\Users\quanc\source\repos\th1\th1\obj\Debug\th1.Form1.resources
+C:\Users\quanc\source\repos\th1\th1\obj\Debug\th1.Properties.Resources.resources
+C:\Users\quanc\source\repos\th1\th1\obj\Debug\th1.csproj.GenerateResource.cache
+C:\Users\quanc\source\repos\th1\th1\obj\Debug\th1.csproj.CoreCompileInputs.cache
+C:\Users\quanc\source\repos\th1\th1\obj\Debug\th1.exe
+C:\Users\quanc\source\repos\th1\th1\obj\Debug\th1.pdb
+C:\Users\quanc\source\repos\th1\th1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\quanc\source\repos\th1\th1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\quanc\source\repos\th1\th1\obj\Debug\th1.csproj.CopyComplete
+C:\Users\quanc\source\repos\th1\th1\obj\Debug\th1.Form2.resources
+C:\Users\quanc\source\repos\th1\th1\obj\Debug\th1.Form3.resources
